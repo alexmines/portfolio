@@ -24,6 +24,18 @@ html {
 }
 
 .banner-small {
-  padding-bottom: 17.5em;
+  padding-bottom: 3em;
   text-align: center;
+}
+
+.btn {
+  background-color: #E6DCDC;
+  text-decoration: none;
+  border: none;
+}
+
+.workname {
+  text-decoration: none;
+  border: none;
+  color: black;
 }
