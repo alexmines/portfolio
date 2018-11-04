@@ -4,6 +4,6 @@ My obsession with the beautiful things around me has made me want to make every 
 
 - **[mine0051@algonquinlive.com](mailto:mine0051@algonquinlive.com)
 - [Behance](https://www.behance.net/mine0051cb84)
-- [Instagram] (https://www.instagram.com/alexmines/)
+- [Instagram](https://www.instagram.com/alexmines/)
 
 © Alex Mines
