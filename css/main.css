@@ -6,6 +6,7 @@ html {
   padding-bottom: 17.5em;
   padding-top: 17.5em;
   text-align: center;
+  height: 100vh;
 }
 
 .portfolio {
@@ -38,4 +39,10 @@ html {
   text-decoration: none;
   border: none;
   color: black;
+}
+
+.banner-container {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
 }
