@@ -2,6 +2,10 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
+p {
+  color: grey;
+}
+
 .banner {
   text-align: center;
   height: 100vh;
@@ -23,8 +27,8 @@ html {
 }
 
 .banner-small {
-  padding-bottom: 3em;
   text-align: center;
+  background-color: black;
 }
 
 .btn {
@@ -43,4 +47,19 @@ html {
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+}
+
+.contact {
+  background-color: lightgrey;
+  background-image: url(../images/email-background.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+input {
+  border: none;
+}
+
+textarea {
+  border: none;
 }
