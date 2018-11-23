@@ -3,14 +3,14 @@ html {
 }
 
 .portfolio-titles {
-  background-color: lightgrey;
-  color: white;
-  margin-top:-10px;
-  width: 95%;
-  margin-bottom: 10px;
+Background-color: lightgrey;
+Color: white;
+Margin-top:-30px!important;
+Width:80%;
+Margin: auto;
+Z-index: 9999;
+Position: relative;
 }
-
-
 
 p {
   color: grey;
@@ -22,7 +22,7 @@ p {
 }
 
 .portfolio {
-  background-color: #E6DCDC;
+  background-color: #D6C5C4;
 }
 
 .footer {
@@ -42,8 +42,9 @@ p {
 }
 
 .btn {
-  background-color: #E6DCDC;
+  background-color: #D6C5C4;
   text-decoration: none;
+  color: white;
   border: none;
 }
 
