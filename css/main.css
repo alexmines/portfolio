@@ -2,6 +2,16 @@ html {
   font-family: 'Roboto', sans-serif;
 }
 
+.portfolio-titles {
+  background-color: lightgrey;
+  color: white;
+  margin-top:-10px;
+  width: 95%;
+  margin-bottom: 10px;
+}
+
+
+
 p {
   color: grey;
 }
