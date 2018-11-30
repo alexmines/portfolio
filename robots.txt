@@ -1,0 +1,6 @@
+# www.robotstxt.org
+
+Sitemap: http://alexmines.com/sitemap.xml
+
+User-Agent: *
+Disallow:
