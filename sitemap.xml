@@ -2,7 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-     <loc>http://thomasjbradley.ca/</loc>
+     <loc>http://alexmines.com/</loc>
   </url>
+
+  <url>
+     <loc>http://alexmines.com/workone.html</loc>
+  </url>
+  <url>
+     <loc>http://alexmines.com/worktwo.html</loc>
+  </url>
+  <url>
+     <loc>http://alexmines.com/workthree.html</loc>
+  </url>
+  <url>
+     <loc>http://alexmines.com/workfour.html</loc>
+  </url>
+
 
 </urlset>
