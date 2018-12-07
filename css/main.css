@@ -81,7 +81,7 @@ h3 {
 
 .error-page {
   background-color: lightgrey;
-  background-image: url(../images/email-background.jpg);
+  background-image: url(../images/error-background.jpg);
   background-position: center;
   background-size: cover;
   min-height: 70vh;
