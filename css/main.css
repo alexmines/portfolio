@@ -78,3 +78,27 @@ textarea {
 h3 {
   margin-bottom: 0;
 }
+
+.error-page {
+  background-color: lightgrey;
+  background-image: url(../images/email-background.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 70vh;
+}
+
+.error-content {
+  padding-top: 20vh;
+}
+
+.forcebreak {
+  display: block;
+}
+
+@media only screen and (min-width: 25em) {
+
+  .forcebreak {
+    display: inline;
+  }
+
+}
