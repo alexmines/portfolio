@@ -3,13 +3,13 @@ html {
 }
 
 .portfolio-titles {
-Background-color: lightgrey;
-Color: white;
-Margin-top:-30px!important;
-Width:80%;
-Margin: auto;
-Z-index: 9999;
-Position: relative;
+  Background-color: lightgrey;
+  Color: white;
+  Margin-top:-30px!important;
+  Width:80%;
+  Margin: auto;
+  Z-index: 9999;
+  Position: relative;
 }
 
 p {
